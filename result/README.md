@@ -1,3 +1,3 @@
 Здесь размещаются графики с результатами экспериментов
-![plot-1](https://github.com/user-attachments/assets/541be325-735b-4248-b400-c13f277cfdfc)
-![plot-2](https://github.com/user-attachments/assets/8fc009f1-506c-44a6-93d3-845233643bf8)
+![plot-1](https://github.com/user-attachments/assets/fb6b29e3-248b-4989-8112-426f112a4d6e)
+![plot-2](https://github.com/user-attachments/assets/c409026d-b409-407d-8745-b50bdb57d350)
